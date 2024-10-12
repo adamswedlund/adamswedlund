@@ -1,6 +1,6 @@
 # Hi, I'm Adam Swedlund 👋
--Software Engineering student at the Milwaukee School of Engineering
--Seeking internship opportunities for 2025
+- Software Engineering student at the Milwaukee School of Engineering.
+- Seeking 2025 internship opportunities.
 
 ## 🌱 What I'm Learning
 - **Python** – foundations in machine learning.

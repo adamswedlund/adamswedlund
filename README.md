@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Adam Swedlund 👋
+Software Engineering student at the Milwaukee School of Engineering
+Seeking internship opportunities for 2025
 
-<!--
-**adamswedlund/adamswedlund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 What I'm Learning
+- **Python** – foundations in machine learning.
+- **HTML & CSS** – foundations in web development.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+- **Liquid Vision**: Collaborating with a team to develop a machine learning AI model that predicts the amount of liquid in a container from a single image.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/adam-swedlund-710090254/)

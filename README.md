@@ -7,5 +7,8 @@
 ### About Me
 - I’m a **Software Engineering** student at the **[Milwaukee School of Engineering (MSOE)](https://www.msoe.edu/)** with a **Data Science minor**
 - I’m currently an **Applied AI Intern at [Direct Supply](https://www.directsupply.com/)**
-- **Eboard member** for the **[MSOE AI Club](https://www.msoe.edu/)**
+- **Eboard member** for the **[MSOE AI Club](https://msoe-maic.com/)**
 
+<p align="center">
+  <img src="assets/mke-skyline.png" alt="Milwaukee Skyline" width="800"/>
+</p>

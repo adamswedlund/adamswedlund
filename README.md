@@ -1,6 +1,5 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=AdamSwedlund&style=for-the-badge)](https://github.com/adamswedlund)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam%20Swedlund-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adam-swedlund/)
-[![Website](https://img.shields.io/badge/Website-Visit%20Now-blue?style=for-the-badge)](https://adamswedlund.com)
 
 ---
 
